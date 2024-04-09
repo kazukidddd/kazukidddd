@@ -12,6 +12,7 @@ jobs:
     steps:
       - uses: kawamataryo/lapras-card-readme@main
         with:
+          GH_TOKEN: ${{ secrets.GIT_TOKEN }}
           SHARE_ID: "flog"
           ICON_FIRST: "#212121"
           ICON_SECOND: "#818181"
