@@ -9,6 +9,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=kazukidddd&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/flog" target="_blank" rel="noopener noreferrer"><img alt="flog's scores on LAPRAS are as follows: Engineering: 3.72 out of 5.0, Business: 4.06 out of 5.0, Influence: 3.38 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.72&b=4.06&i=3.38&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=en" width="400" ></a>  
-Last Updated on 3/26/2025, 12:00:50 AM</p>
+<p ><a href="https://lapras.com/public/flog" target="_blank" rel="noopener noreferrer"><img alt="flog's scores on LAPRAS are as follows: Engineering: 3.71 out of 5.0, Business: 4.06 out of 5.0, Influence: 3.38 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.71&b=4.06&i=3.38&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=en" width="400" ></a>  
+Last Updated on 3/27/2025, 12:00:41 AM</p>
 <!--END_SECTION:lapras-card-->
